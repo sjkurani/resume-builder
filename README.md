@@ -1,1 +1,1 @@
-# resume-builder sample first page.
+# Resume-builder sample first page.
