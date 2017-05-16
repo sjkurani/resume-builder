@@ -1,0 +1,44 @@
+﻿
+.mycolor {
+    background :#337ab7;
+}
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom:0px;
+  border: 1px solid transparent;
+}
+.navbar li a {
+  color: #ffffff;
+}
+#hero {
+  height: 600px;
+  background : url('../imgs/05.jpg');
+  background-size: 100%;
+}
+
+.thumbnail {
+  background: rgba(51, 51, 51, 0.41);
+}
+.thumbnail a {
+  color: #f1f1f1;
+  font-weight: 600;
+  text-align: left;
+}
+
+.thumbnail ul {
+  list-style: none;
+}
+.navbar-default .navbar-nav>li>a , 
+.navbar-default .navbar-brand {
+  color: #fff;
+  font-weight: 600;
+}
+.dummy {
+  min-height: 10%;
+}
+.footer_text {
+  color: #ffffff;
+  padding: 3%;
+}
